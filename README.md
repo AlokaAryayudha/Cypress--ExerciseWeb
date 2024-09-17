@@ -1,3 +1,3 @@
 # ExerciseWeb
 
-update ini 
+Melalukan Automasi pada website https://automationexercise.com/
