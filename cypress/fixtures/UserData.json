@@ -1,0 +1,45 @@
+{
+    "DataUser1": {
+      "fullnamee": "kudaaas sukaa",
+      "firstnama": "kudaaaa",
+      "last": "sukaaa",
+      "email": "embeak@gmail.com",
+      "passwd": "A@1234567",
+      "cpasswd": "A@1234567",
+      "gender": "male",
+      "day" : "24",
+      "month" : "June",
+      "year" : "2002",
+      "company" : "ferari",
+      "addr" : "jl.jakarta",
+      "country" : "Canada",
+      "state"  : "java",
+      "city" : "jakarta",
+      "code": "1345",
+      "number" : "0812323"
+    },
+  
+    "DataUser2": {
+        "firstnama": "kudab",
+        "last": "sukab",
+        "email": "embee1@gmail.com",
+        "passwd": "A@1234567",
+        "cpasswd": "A@1234567"
+    },
+
+    "DataUser3": {
+        "firstnama": "kudac",
+        "last": "sukac",
+        "email": "embee2@gmail.com",
+        "passwd": "A@1234567",
+        "cpasswd": "A@1234567"
+      },
+      "DataUser4": {
+        "firstnama": "kudad",
+        "last": "sukad",
+        "email": "embee3@gmail.com",
+        "passwd": "A@1234567",
+        "cpasswd": "A@1234567"
+      }
+
+  }
