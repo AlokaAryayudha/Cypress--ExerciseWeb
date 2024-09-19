@@ -2,7 +2,7 @@ import NavigationPages from "../support/PageObject/Navigator"
 import UserData from "../fixtures/UserData.json"
 import Index from "../support/index"
 
-describe('template spec', () => {
+describe('Register', () => {
  
 //   function RandomFirst() {
 //     const randomString = Math.random().toString(36).substring(2, 10);
