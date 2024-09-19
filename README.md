@@ -1,3 +1,4 @@
 # ExerciseWeb
 
-Melalukan Automasi pada website "https://automationexercise.com/"
+Melalukan Automasi semua fitur pada website "https://automationexercise.com/"
+

@@ -16,7 +16,10 @@
       "state"  : "java",
       "city" : "jakarta",
       "code": "1345",
-      "number" : "0812323"
+      "number" : "0812323",
+      "cvc" : "21",
+      "expired" : "10",
+      "nocard" : "2828"
     },
   
     "DataUser2": {
